@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nalla Vamshi Krishna</h1>
 <h3 align="center">Data Science Student | Exploring the Potential of Generative AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshi-nalla&label=Profile%20views&color=0e75b6&style=flat" alt="vamshi-nalla" /> </p>
 
 - 🔭 I’m currently working on [Named Entity Recognition](https://github.com/vamshi-nalla/Named-Entity-Recognition)
 
