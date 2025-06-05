@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nalla Vamshi Krishna</h1>
-<h3 align="center">Data Science Student | Exploring the Potential of Generative AI</h3>
+<h3 align="center">Data Science professional Exploring the Potential of Generative & Agentic AI</h3>
 
 
-- 🔭 I’m currently working on [Named Entity Recognition](https://github.com/vamshi-nalla/Named-Entity-Recognition)
-
-- 🌱 I’m currently learning **Generative AI with OpenAI, LangChain, and LlamaIndex**
+- 🔭 I’m currently working on Genrative AI projects
 
 - 📫 How to reach me **nvkrishna9396@gmail.com**
 
